@@ -1,0 +1,33 @@
+.formOne{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.formThree{
+    display: flex;
+    flex-direction: column;
+}
+.form-main{
+    display: flex;
+    flex-direction: column;
+    /* padding: 10px; */
+}
+.form{
+    margin: 10px;
+    width: 40%;
+}
+.form_value{
+    display: flex;
+    flex-direction: column;
+}
+.description{
+    display: flex;
+    width: 60%;
+}
